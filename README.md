@@ -15,8 +15,8 @@ The code I used for this project was C#, and the libaries utilized were from uni
 # Useful Websites
 
 * [Unity Download Guide] (https://unity.com/download)
-* [Brackeye Third Person Movement](https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys)
-* [Unity tutorial on Camera behavior](https://learn.unity.com/tutorial/controlling-unity-camera-behaviour)
+* [Brackeye Third Person Movement] (https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys)
+* [Unity tutorial on Camera behavior] (https://learn.unity.com/tutorial/controlling-unity-camera-behaviour)
 * [Microsoft C# refrences pages] (https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [Unity Character controller document] (https://docs.unity3d.com/ScriptReference/CharacterController.html)
 
